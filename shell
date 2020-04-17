@@ -1,0 +1,4 @@
+进入虚拟环境：
+. venv/bin/activate
+加入requirements.txt:
+pip freeze > requirements.txt
