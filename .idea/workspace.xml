@@ -2,32 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fc9fae3-a8c6-48fe-a6d2-0ea3f44285ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/front-end/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/.postcssrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/build/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/build/check-versions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/build/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/build/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/build/vue-loader.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/build/webpack.base.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/build/webpack.dev.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/build/webpack.prod.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/config/dev.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/config/prod.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/components/Ping.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/app/api/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/app/api/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/app/api/tokens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/app/api/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flask-vuejs-twitter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flask-vuejs-twitter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/back-end/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/app/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/app/api/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/weibo.py" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/weibo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shell" beforeDir="false" afterPath="$PROJECT_DIR$/shell" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,15 +34,16 @@
   </component>
   <component name="ProjectId" id="1afEzBgPoMjfXjXbQ8SPj9UB0eV" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/back-end/app/api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/back-end/app/api" />
+      <recent name="$PROJECT_DIR$/back-end" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/back-end/app/api" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/back-end" />
     </key>
   </component>
   <component name="RunDashboard">

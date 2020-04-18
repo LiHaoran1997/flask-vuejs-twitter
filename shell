@@ -2,3 +2,10 @@
 . venv/bin/activate
 加入requirements.txt:
 pip freeze > requirements.txt
+
+#获取token
+http --auth modriclee:1234qwer POST http://localhost:5000/api/tokens
+
+查看用户信息(token是modriclee的，其他人也可以获取)
+http GET http://localhost:5000/api/users/3 "Authorization:Bearer IJt3SPeUsMnTe6OfHTTZsJLaU1coUbRO"
+http GET http://localhost:5000/api/users "Authorization:Bearer IJt3SPeUsMnTe6OfHTTZsJLaU1coUbRO"
