@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fc9fae3-a8c6-48fe-a6d2-0ea3f44285ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/back-end/app/api/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/app/api/errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/app/api/tokens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/app/api/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/app/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/flask-vuejs-twitter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flask-vuejs-twitter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/components/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/components/Navbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/components/Profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/components/Register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/app/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/app/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/app/api/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/weibo.py" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/weibo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/router/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shell" beforeDir="false" afterPath="$PROJECT_DIR$/shell" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +30,7 @@
   </component>
   <component name="ProjectId" id="1afEzBgPoMjfXjXbQ8SPj9UB0eV" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../weibo-课程参考/weibo/weibo" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
