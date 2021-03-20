@@ -27,7 +27,7 @@ gunicorn==19.9.0
 idna==2.7
 ipaddress==1.0.17
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 jsonschema==2.6.0
 keyring==10.6.0
 keyrings.alt==3.0
